@@ -22,7 +22,7 @@ var friendsArray = [{
     ]
 }, {
     name: "Test Data",
-    photo: "https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/GettyImages-72291000-920x584.jpg",
+    photo: "https://media1.tenor.com/images/5c406b927ec59a31eb67e3366f3121ef/tenor.gif?itemid=11909469",
     scores: ["3", "1", "3", "3", "4", "1", "1", "3", "5", "5"]
 }];
 
