@@ -15,8 +15,5 @@ var friendsArray = [{
     name: "Mary Poppins",
     photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mary_Poppins5.jpg/250px-Mary_Poppins5.jpg",
     scores: ["5", "5", "5", "5", "5", "5", "5", "5", "5", "5"]
-}
-
-];
-
+}];
 module.exports = friendsArray;

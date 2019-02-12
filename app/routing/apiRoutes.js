@@ -25,7 +25,7 @@ module.exports = function (app) {
             totalDifference = 0;
 
             for (var j = 0; j < friendsData[i].scores[j]; j++) {
-                totalDifference += Math.abs(parseInt(userScore[j] - friendsData[i].scores[j]))
+                totalDifference += Math.abs(parseInt(userScore[j] - friendsData[i].scores[j]));
 
                 if (totalDifference <= match.difference) {
 
