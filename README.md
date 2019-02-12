@@ -18,4 +18,4 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 * FontAwsome
 * Chosen.js
 
-![ff](./app/assets/ff.png)
+![Friend Finder](/app/assets/FF.png)
